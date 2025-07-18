@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Data and Other Folder
+data/
+Excess Visulizations/
+Model Results Images/
+Scenario 1 Context Images/
+Scenario 2 Context Images/
